@@ -101,6 +101,9 @@
       "<rootDir>/example-slack-message"
     ]
   },
+  "files": [
+  "lib"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "yarn lint && yarn tsc"
