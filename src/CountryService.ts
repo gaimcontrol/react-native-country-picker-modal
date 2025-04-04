@@ -9,6 +9,7 @@ import {
   Subregion,
 } from './types'
 import Fuse from 'fuse.js'
+import countriesEmoji from './assets/data/countries-emoji.json';
 
 const imageJsonUrl =
   'https://xcarpentier.github.io/react-native-country-picker-modal/countries/'
